@@ -1,0 +1,2 @@
+#define NecroBot_VERSION_MAJOR @NecroBot_VERSION_MAJOR@
+#define NecroBot_VERSION_MINOR @NecroBot_VERSION_MINOR@
